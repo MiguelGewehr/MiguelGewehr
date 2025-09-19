@@ -4,27 +4,9 @@
 Me chamo Miguel, sou estudante de Ciência da Computação na UFES. Sou movido pela curiosidade e pela paixão em usar a tecnologia para resolver desafios complexos e criar softwares inovadores.
 
 <p align="left">
-  <a href="https://github.com/MiguelGewehr" target="_blank">
-    <img 
-      alt="GitHub" 
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/badge/Seguir-236ad3?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-g-dev" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="Me siga no LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="mailto:miguel.gewehr.dev@gmail.com">
-    <img 
-      alt="Email" 
-      title="Me mande um email"
-      src="https://custom-icon-badges.demolab.com/badge/Email-777777?style=for-the-badge&logo=mail&logoColor=white"
-    />
-  </a>
+  <a href="https://github.com/MiguelGewehr" target="_blank"><img alt="GitHub" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/badge/Seguir-236ad3?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/miguel-g-dev" target="_blank"><img alt="LinkedIn" title="Me siga no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:miguel.gewehr.dev@gmail.com"><img alt="Email" title="Me mande um email" src="https://custom-icon-badges.demolab.com/badge/Email-777777?style=for-the-badge&logo=mail&logoColor=white"/></a>
 </p>
 
 ---
